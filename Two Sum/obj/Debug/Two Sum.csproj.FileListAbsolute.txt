@@ -1,0 +1,6 @@
+D:\C&C++ samples\Two Sum\Two Sum\bin\Debug\Two Sum.exe.config
+D:\C&C++ samples\Two Sum\Two Sum\bin\Debug\Two Sum.exe
+D:\C&C++ samples\Two Sum\Two Sum\bin\Debug\Two Sum.pdb
+D:\C&C++ samples\Two Sum\Two Sum\obj\Debug\Two Sum.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Two Sum\Two Sum\obj\Debug\Two Sum.exe
+D:\C&C++ samples\Two Sum\Two Sum\obj\Debug\Two Sum.pdb
